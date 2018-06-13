@@ -25,6 +25,11 @@ int main(void)
 
 关于代码树中各个目录存放的源代码的相关内容简介如下：
 
++arch
+    +arm
+        +arm-m M核中断、调度、tick相关代码
+        +common arm核公用的cmsis core接口
+
 <table>
 <tr>
 	<td width="12%">一级目录</td>
