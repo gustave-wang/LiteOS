@@ -4,25 +4,22 @@
 
 LiteOS入口在工程对应的main.c中，基本流程如下：
 
+```c
+
 int main(void)
-
 {
-
     UINT32 uwRet = LOS_OK;
-
     HardWare_Init();
-
     uwRet = LOS_KernelInit();
-    
     if (uwRet != LOS_OK)
     {
         return LOS_NOK;
     }
-
     LOS_Inspect_Entry();
-
     LOS_Start();
 }
+
+```
 
 1. 首先进行硬件初始化  HardWare_Init();
    
