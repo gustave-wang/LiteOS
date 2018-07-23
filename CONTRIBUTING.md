@@ -77,7 +77,7 @@ Make change locally and test your patch to make sure that you have already solve
  		git add [changed files]
 
  * Step 8: Commit Changes Locally
-We suggest using the commit message template to make sure git log maintained normally.[Git commit message template](### Commit Message Template) will be described later. The following command will invoke commit message templates automatically:
+We suggest using the commit message template to make sure git log maintained normally.[Git commit message template](#Commit Message Template) will be described later. The following command will invoke commit message templates automatically:
 
 		git commit
 
