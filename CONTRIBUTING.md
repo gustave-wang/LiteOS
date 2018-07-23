@@ -1,7 +1,7 @@
 # Contribution Guidelines
 Huawei LiteOS is an IoT device operating system open sourced by Huawei, we welcome and encourage the community to do contribution on our project. Contribution includes but not limited tobug reports,feature requests, code patches and so on.
 
-##Issue 
+## Issue 
 ### Bug Reports
 For bug reports,we suggest the community to use following template to report all kinds of bugs. When creating a new issue, you could select the bug reports option and the following templete will pop up, then you should fill items accodring to the instructions.
 
@@ -103,7 +103,7 @@ For code patches, the community may need take several actions to finish this kin
 	Now you could go to your own fork repo page at github, and create a pull request. Here is the [pull request creation instructions](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 ## Commit Message
-###Commit Message Template
+### Commit Message Template
 
 **The Layout**
 
@@ -139,7 +139,7 @@ Here you can reference issues and pull-requests that relate to your commit, like
 closes #125
 ``` 
 
-###Setting Gitconfig
+### Setting Gitconfig
 
 
-##Technical Documentations
+## Technical Documentations
